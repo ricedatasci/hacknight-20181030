@@ -7,10 +7,14 @@ and investigate other views of the data as well.
 
 ## Datasets
 
-
+* College Majors (538): Information on demographics and income for several
+  disciplines and majors.
+* 
 
 ## Example Visualizations:
 
+### College Majors:
 
+![college-major-incomes](./figs/college-major-incomes.png)
 
 
