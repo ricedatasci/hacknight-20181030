@@ -16,5 +16,3 @@ and investigate other views of the data as well.
 ### College Majors:
 
 ![college-major-incomes](./figs/college-major-incomes.png)
-
-
