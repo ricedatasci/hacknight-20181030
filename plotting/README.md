@@ -7,12 +7,17 @@ and investigate other views of the data as well.
 
 ## Datasets
 
-* College Majors (538): Information on demographics and income for several
+* [College Majors (538)](https://github.com/fivethirtyeight/data/tree/master/college-majors): Information on demographics and income for several
   disciplines and majors.
-* 
+* [Economic Freedom (Kaggle)](https://www.kaggle.com/gsutters/economic-freedom/version/1): Information on the economic freedom over time of
+  various nations.
 
 ## Example Visualizations:
 
 ### College Majors:
 
 ![college-major-incomes](./figs/college-major-incomes.png)
+
+### Economic Freedom:
+
+![economic freedom](./figs/efw-cc.png)
